@@ -49,7 +49,7 @@
   "nerd_font": {
     "enable": true,
     "version": "3.4.0",
-    "propo": true,
+    "mono": false,
     "use_font_patcher": false,
     "glyphs": [
       "--complete"
